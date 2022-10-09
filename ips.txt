@@ -1,0 +1,198 @@
+1 - 93.6.117.161 - 25565 - 3/20 - 1.19.2 - A Minecraft Server - 
+2 - 93.6.196.8 - 25565 - 0/20 - 1.19.2 - OUIOUIOUI - 
+3 - 93.7.55.238 - 25565 - 0/10 - Paper 1.19.2 - Coucou - 
+4 - 93.12.193.185 - 25565 - 0/20 - Paper 1.19.2 - A Minecraft Server - 
+5 - 93.16.81.174 - 25565 - 0/10 - 1.19.2 - Better MC [FORGE] 1.19.2 - 
+6 - 93.16.224.30 - 25565 - 0/2 - 1.19.2 - Un p'tit minecraft ? - 
+7 - 93.21.69.159 - 25565 - 0/5 - Spigot 1.19.2 - Pauul_'s server - 
+8 - 93.27.9.137 - 25565 - 0/20 - Paper 1.19.2 - A papermc linux server - 
+9 - 93.27.40.150 - 25565 - 0/24 - Paper 1.19.2 - l'amusement, A jouer ensemble - 
+10 - 93.29.72.179 - 25565 - 1/20 - CraftBukkit 1.19.2 - Il faut etre beau pour se connecter - 
+11 - 93.30.9.149 - 25565 - 0/20 - 1.19.2 - Aventure des 2 connards - 
+12 - 93.30.114.31 - 25565 - 0/20 - Paper 1.19.2 - A Minecraft Server - 
+13 - 93.30.161.233 - 25565 - 0/20 - Spigot 1.19.2 - == Survival Island ==/ - 
+14 - 93.30.211.177 - 25565 - 0/999 - Paper 1.19.2 - Kenk's Basement WOOOOOOkenk = best youtuber - 
+15 - 93.30.212.107 - 25565 - 1/20 - Spigot 1.19.2 - Bienvenue sur le serveur de Rizzlas, amuse toi bien :) - 
+16 - 93.38.63.194 - 25565 - 0/20 - 1.19.2 - A Minecraft ServerÂ hosted on PufferPanel - 
+17 - 93.38.120.183 - 25565 - 0/5 - Spigot 1.19.2 - il server di Aliexpress - 
+18 - 93.38.122.110 - 25565 - 0/20 - CraftBukkit 1.19.2 - Un altro server - 
+19 - 93.39.184.141 - 25565 - 0/20 - Paper 1.19.2 - Le building server - 
+20 - 93.39.186.203 - 25565 - 0/10 - 1.19.2 - Vanilla Tozza - 
+21 - 93.40.0.25 - 25565 - 0/104 - Paper 1.19.2 - VANILLAse [1.19.2] Chris-MC - 
+22 - 93.41.131.83 - 25565 - 0/20 - Paper 1.19.2 - Birilli Sbirulini - 
+23 - 93.41.137.197 - 25565 - 0/24 - 1.19.2 - Biscotti! :Q___ - 
+24 - 93.41.253.58 - 25565 - 1/20 - Paper 1.19.2 - A Minecraft Server - 
+25 - 93.42.74.141 - 25565 - 0/10 - 1.19.2 - ÂServer ufficiale del partito Fratelli di PREDA! - 
+26 - 93.42.76.102 - 25565 - 0/20 - Spigot 1.19.2 - Official ISY Minecraft Server - 
+27 - 93.42.97.114 - 25565 - 0/10 - 1.19.2 - ÂÂBenvenuto sul server ÂÂGame It Up ÂÂ[ÂÂVanillaÂÂÂ]ÂVisita Âwww.gameitup.itÂ e unisciti al nostro gruppo Discord. - 
+28 - 93.43.212.252 - 25565 - 0/20 - 1.19.2 - Cippo's server - 
+29 - 93.43.215.106 - 25565 - 1/10 - 1.19.2 - ciauuu c: - 
+30 - 93.44.180.51 - 25565 - 2/10 - 1.19.2 -  - 
+31 - 93.48.40.45 - 25565 - 0/10 - Paper 1.19.2 - Lay4play's Server - 
+32 - 93.48.231.158 - 25565 - 0/69 - Paper 1.19.2 - A Minecraft Server - 
+33 - 93.51.72.35 - 25565 - 0/20 - Paper 1.19.2 - Send feet - 
+34 - 93.55.81.198 - 25565 - 0/8 - Spigot 1.19.2 - Zabadula Arinza Arunza - 
+35 - 93.56.204.232 - 25565 - 0/5 - 1.19.2 - UwU - 
+36 - 93.62.153.204 - 25565 - 0/20 - 1.19.2 - A Minecraft Server - 
+37 - 93.66.239.250 - 25565 - 1/20 - Paper 1.19.2 - Have Fun - 
+38 - 93.71.155.222 - 25565 - 0/20 - 1.19.2 - Niggers - 
+39 - 93.74.24.141 - 25565 - 0/20 - 1.19.2 - A Minecraft Server - 
+40 - 93.81.236.145 - 25565 - 0/30 - 1.19.2 - FriendShip - 
+41 - 93.81.255.129 - 25565 - 1/32 - 1.19.2 - Venture: Uncharted Lands - 
+42 - 93.82.138.6 - 25565 - 0/20 - 1.19.2 - A Minecraft Server - 
+43 - 93.82.203.102 - 25565 - 0/20 - 1.19.2 - A Minecraft Server - 
+44 - 93.87.246.68 - 25565 - 0/20 - 1.19.2 - Djuma server - 
+45 - 93.90.14.72 - 25565 - 0/20 - 1.19.2 - Welcome to this server! Play with the best intentions! - 
+46 - 93.90.178.196 - 25565 - 0/20 - 1.19.2 - DIGITALBEARS-MINECRAFT - 
+47 - 93.90.195.245 - 25565 - 0/20 - Paper 1.19.2 - Weclome - 
+48 - 93.90.200.187 - 25565 - 0/20 - 1.19.2 - Le serveur des pingouins - 
+49 - 93.90.200.197 - 25565 - 0/6 - 1.19.2 - Iramesia 2022 Builder Server - 
+50 - 93.91.154.237 - 25565 - 0/20 - Paper 1.19.2 - BG Server - 
+51 - 93.95.33.47 - 25565 - 0/20 - CraftBukkit 1.19.2 - A Vanilla Minecraft Server powered by Docker - 
+52 - 93.95.146.9 - 25565 - 1/20 - Paper 1.19.2 - Procyon Minecraft - 
+53 - 93.99.228.176 - 25565 - 0/20 - 1.19.2 - Super skvely Minecraft server Mrozouna a spol. - 
+54 - 93.99.250.67 - 25565 - 0/20 - 1.19.2 - A Minecraft Server - 
+55 - 93.100.217.32 - 25565 - 0/10 - 1.19.2 - Better Minecraft [FABRIC] 1.19.2 - 
+56 - 93.103.65.7 - 25565 - 0/4 - Paper 1.19.2 - Minecraft server - 
+57 - 93.103.193.132 - 25565 - 0/1000 - Waterfall 1.19, 1.19.1, 1.19.2 - â™¥ Art Union | 1.19.2 â™¥ Your daily dose of art! - 
+58 - 93.104.90.234 - 25565 - 0/20 - 1.19.2 - A Minecraft Server - 
+59 - 93.104.160.154 - 25565 - 0/20 - 1.19.2 - A Minecraft Server - 
+60 - 93.104.209.147 - 25565 - 0/10 - CraftBukkit 1.19.2 - MINEBAY.de - economic island server - 
+61 - 93.104.209.182 - 25565 - 0/20 - Paper 1.19.2 - -> Varestorm Server @Â§A1.19.2 <-"A creeper walks into a bar... everybody dies." - 
+62 - 93.104.210.42 - 25565 - 0/20 - 1.19.2 - LinuxGSM - 
+63 - 93.104.214.124 - 25565 - 0/5 - 1.19.2 - SchollyMine - 
+64 - 93.105.186.54 - 25565 - 0/20 - 1.19.2 - Serwer Vanilla Minecraft powered by Jakub Chmurski - 
+65 - 93.105.223.190 - 25565 - 0/20 - 1.19.2 - A Minecraft Server - 
+66 - 93.107.187.4 - 25565 - 0/20 - Paper 1.19.2 - Welcome to the HSUS Minecraft Server! - 
+67 - 93.112.167.106 - 25565 - 0/20 - Paper 1.19.2 - hi - 
+68 - 93.119.5.54 - 25565 - 0/8 - Spigot 1.19.2 - A Minecraft Server - 
+69 - 93.119.5.181 - 25565 - 0/24 - 1.19.2 - ÂGoeiendag is 'eem! - 
+70 - 93.119.13.108 - 25565 - 0/30 - Paper 1.19.2 - ErikSMP - 
+71 - 93.126.71.135 - 25565 - 0/20 - 1.19.2 - A Minecraft Server - 
+72 - 93.127.239.56 - 25565 - 0/20 - Paper 1.19.2 - A Minecraft Server - 
+73 - 93.127.239.179 - 25565 - 0/8 - 1.19.2 - Die Gummifotzenvernascher - 
+74 - 93.131.25.76 - 25565 - 0/20 - Paper 1.19.2 - A Minecraft Server - 
+75 - 93.132.25.236 - 25565 - 0/20 - 1.19.2 - David und Johans Minecraft Server - 
+76 - 93.132.79.70 - 25565 - 0/20 - Paper 1.19.2 - Ein Super Server sponsored vom Bruder des Jahres - 
+77 - 93.136.238.68 - 25565 - 0/20 - 1.19.2 - World 1 - 
+78 - 93.137.178.253 - 25565 - 0/10 - Paper 1.19.2 - Uzivaj - 
+79 - 93.139.150.70 - 25565 - 0/20 - 1.19.2 - A Minecraft Server - 
+80 - 93.141.24.199 - 25565 - 0/20 - Spigot 1.19.2 - BestCord VANILLA - 
+81 - 93.143.200.210 - 25565 - 0/20 - Paper 1.19.2 - Have fun and be yourself! - 
+82 - 93.144.210.190 - 25565 - 0/5 - Spigot 1.19.2 - A Bukkit Minecraft Server created by savernike99 - 
+83 - 93.146.19.99 - 25565 - 0/20 - Paper 1.19.2 - Peace. - 
+84 - 93.147.237.67 - 25565 - 0/20 - 1.19.2 - Palle sudate - 
+85 - 93.155.167.181 - 25565 - 0/200 - 1.19.2 - A Minecraft Server - 
+86 - 93.157.232.250 - 25565 - 0/20 - 1.19.2 - Minecraft Server - 
+87 - 93.157.232.251 - 25565 - 0/20 - CraftBukkit 1.19.2 - Bukkit - 
+88 - 93.157.234.100 - 25565 - 0/20 - 1.19.2 - A Minecraft Server - 
+89 - 93.157.236.209 - 25565 - 0/20 - CraftBukkit 1.19.2 - Xaos443 server - 
+90 - 93.158.213.101 - 25565 - 0/5 - Paper 1.19.2 - A Minecraft Server - 
+91 - 93.158.219.209 - 25565 - 0/69 - Paper 1.19.2 - The Chateau Vanilla Minecraft Server - 
+92 - 93.159.124.209 - 25565 - 0/20 - Paper 1.19.2 - A Minecraft 1.18 Vanilla Server - 
+93 - 93.160.18.169 - 25565 - 0/20 - 1.19.2 - Skyblock - 
+94 - 93.161.112.103 - 25565 - 0/20 - 1.19.2 - Teitur og Bjoerks Minecraft server - 
+95 - 93.163.169.10 - 25565 - 0/20 - 1.19.2 - Lasse er gay - 
+96 - 93.164.220.246 - 25565 - 0/20 - 1.19.2 - A Minecraft Server - 
+97 - 93.170.76.20 - 25565 - 0/200 - Paper 1.19.2 - Town Legend - ÐŸÐ¾Ñ?Ñ‚Ñ€Ð¾Ð¹ Ð³Ð¾Ñ€Ð¾Ð´ Ñ?Ð²Ð¾ÐµÐ¹ Ð¼ÐµÑ‡Ñ‚Ñ‹ !Ð‘ÐµÐ· Ð’Ð?Ð™ÐŸÐžÐ’ | Ð”Ð¾Ñ?Ñ‚Ð¸Ð¶ÐµÐ½Ð¸Ñ? | Ð“Ð¾Ñ€Ð¾Ð´Ð° | VIP | ÐœÑ?ÐœÐœÐž - 
+98 - 93.170.82.243 - 25565 - 0/7 - 1.19.2 - Wellcome!!! - 
+99 - 93.170.137.122 - 25565 - 0/20 - 1.19.2 - A Minecraft Server - 
+100 - 93.172.167.66 - 25565 - 0/20 - Paper 1.19.2 - nigga dishwasher - 
+101 - 93.176.182.86 - 25565 - 0/20 - 1.19.2 - A Minecraft Server - 
+102 - 93.177.102.119 - 25565 - 0/69 - Velocity 1.7.2-1.19.2 -  - 
+103 - 93.177.102.170 - 25565 - 1/2 - Lemurya 1.19.2 - ÂÂ Ââ˜ƒ ÂEpiklava â–ª Â[Â1.19.xÂ] Ââ˜ƒ Ââ¦¿ ÂEn Ä°yi TÃ¼rk Survival Sunucusu Ââ¦¿ - 
+104 - 93.179.192.202 - 25565 - 0/20 - 1.19.2 - A Minecraft Server - 
+105 - 93.180.177.110 - 25565 - 0/5 - Paper 1.19.2 - Witaj w swiecie Hacjenda - 
+106 - 93.181.3.171 - 25565 - 0/20 - Paper 1.19.2 - Keferkadsen - 
+107 - 93.182.221.23 - 25565 - 0/40 - 1.19.2 - Le serveur de Matteo - 
+108 - 93.184.185.96 - 25565 - 0/2022 - 1.19.2 -  - 
+109 - 93.184.207.148 - 25565 - 0/20 - 1.19.2 - A Minecraft Server - 
+110 - 93.184.207.155 - 25565 - 0/15 - CraftBukkit 1.19.2 - Lind's Server - 
+111 - 93.186.158.214 - 25565 - 0/20 - Paper 1.19.2 - OMG, it's Kings Barton :) - 
+112 - 93.186.198.18 - 25565 - 0/10 - 1.19.2 - A Minecraft Server - 
+113 - 93.186.198.49 - 25565 - 0/20 - Spigot 1.19.2 - Minecraft Vanilla | Toxic-Gaming - 
+114 - 93.186.198.68 - 25565 - 0/20 - 1.19.2 - All the Mods 8 lol - 
+115 - 93.186.198.89 - 25565 - 0/10 - Paper 1.19.2 - A Minecraft Server - 
+116 - 93.186.198.73 - 25565 - 0/20 - 1.19.2 - A Minecraft Server - 
+117 - 93.186.198.129 - 25565 - 0/1337 - 1.19.2 - Pirates and Mux - 
+118 - 93.186.198.209 - 25565 - 0/10 - 1.19.2 - HT Coop Vanilla server 1.19.2 - 
+119 - 93.186.199.70 - 25565 - 0/65 - Velocity 1.7.2-1.19.2 - ã€?â˜¢ã€‘â– â”?â– ã€“ã€“ã€“MTW NETWORKã€“ã€“ã€“â– â”?â– ã€?â˜¢ã€‘ ã€?âœ¸ã€‘MODPACKS, QUESTS, ECONOMY...ã€?âœ¸ã€‘ - 
+120 - 93.186.200.212 - 25565 - 0/2 - Spigot 1.19.2 - We need Llammas and Pandaaaaaaaaaaas!!!! - 
+121 - 93.186.204.16 - 25565 - 0/10 - 1.19.2 - Nuetzliche Items bei: -28 1548 - 
+122 - 93.186.205.125 - 25565 - 0/6 - Spigot 1.19.2 - A Minecraft Server - 
+123 - 93.186.205.153 - 25565 - 0/10 - 1.19.2 - A Minecraft Server - 
+124 - 93.186.205.226 - 25565 - 0/10 - 1.19.2 - Java Server Version 1.18 - 
+125 - 93.186.206.104 - 25565 - 0/100 - Spigot 1.19.2 - ROTI - Server Network - [1.19.2]mm Now on 1.19.2! mm - 
+126 - 93.186.206.134 - 25565 - 0/10 - 1.19.2 - wunnedal - 
+127 - 93.186.206.148 - 25565 - 0/10 - 1.19.2 - A Minecraft Server - 
+128 - 93.186.207.33 - 25565 - 0/8 - 1.19.2 - A Minecraft Server - 
+129 - 93.188.162.198 - 25565 - 0/10 - 1.19.2 - Powered by AMP - 
+130 - 93.188.163.76 - 25565 - 0/20 - Paper 1.19.2 - Now with less lag! - 
+131 - 93.188.163.241 - 25565 - 0/10 - 1.19.2 - Powered by AMP - 
+132 - 93.188.164.82 - 25565 - 0/10 - 1.19.2 - The sun is shining - 
+133 - 93.188.165.20 - 25565 - 0/25 - Paper 1.19.2 - LOBBY - 
+134 - 93.188.166.240 - 25565 - 1/10 - Spigot 1.19.2 - Powered by AMP - 
+135 - 93.189.147.228 - 25565 - 0/20 - 1.19.2 - A Vanilla Minecraft Server powered by Docker - 
+136 - 93.190.8.13 - 25565 - 0/20 - 1.19.2 - ÂÂA Minecraft ServeÂrÂ - Â â‰ˆÂÂAzimHostÂâ‰ˆÂ -ÂÂ PowerServer - 
+137 - 93.190.23.105 - 25565 - 0/20 - 1.19.2 - A Minecraft Server - 
+138 - 93.191.14.125 - 25565 - 1/1337 - Paper 1.19.2 - Ayat Minecraft Server - 
+139 - 93.192.103.143 - 25565 - 0/20 - Paper 1.19.2 - A Paper Minecraft Server powered by Docker - 
+140 - 93.199.76.176 - 25565 - 0/50 - 1.19.2 - Vals Wonderland - 
+141 - 93.200.107.73 - 25565 - 0/20 - Paper 1.19.2 - Welcome to the official IDE22 Minecraft Server!â•šâ•? Feel free to join us and start creating! â•?â•? - 
+142 - 93.200.169.177 - 25565 - 0/20 - Paper 1.19.2 - A Minecraft Server - 
+143 - 93.202.66.5 - 25565 - 0/12 - Paper 1.19.2 - ND Industries - Minecraft Survival 1.19.2 - 
+144 - 93.202.98.134 - 25565 - 0/6 - 1.19.2 - A Minecraft Server - 
+145 - 93.203.189.195 - 25565 - 0/15 - 1.19.2 - DockerServer - 
+146 - 93.204.188.199 - 25565 - 0/69 - 1.19.2 - skibbedi bap - 
+147 - 93.205.58.30 - 25565 - 0/15 - 1.19.2 - Minecraft Vanilla Server - 
+148 - 93.205.193.4 - 25565 - 0/20 - 1.19.2 - A Minecraft Server - 
+149 - 93.205.217.8 - 25565 - 0/20 - 1.19.2 - A Fabric Minecraft Server powered by Docker - 
+150 - 93.205.223.49 - 25565 - 0/10 - Paper 1.19.2 - Falafeltempel Hard(core) - 
+151 - 93.206.27.157 - 25565 - 0/20 - CraftBukkit 1.19.2 - [GS] BSkyblock - 
+152 - 93.206.61.27 - 25565 - 0/20 - 1.19.2 - Synology Minecraft Server - 
+153 - 93.207.30.247 - 25565 - 0/20 - Spigot 1.19.2 - A Minecraft Server - 
+154 - 93.207.248.23 - 25565 - 0/30 - Velocity 1.7.2-1.19.2 - Lunaris Minecraft ServerLunaris Minecraft Server - 
+155 - 93.209.37.186 - 25565 - 0/20 - Paper 1.19.2 - Kuma und seine Freunde <3 - 
+156 - 93.209.211.175 - 25565 - 0/3 - Paper 1.19.2 - Minecraft Server Simon und Rene - 
+157 - 93.210.158.4 - 25565 - 0/5 - 1.19.2 - A Minecraft Server - 
+158 - 93.210.175.164 - 25565 - 0/5 - 1.19.2 - Welcome to this world... - 
+159 - 93.210.206.239 - 25565 - 0/25 - 1.19.2 - JulezSantanas World - 
+160 - 93.210.247.254 - 25565 - 0/20 - 1.19.2 - A Minecraft Server - 
+161 - 93.211.114.134 - 25565 - 0/20 - 1.19.2 - SprÃ¶tgeÂ´s Minecraft Server - 
+162 - 93.213.169.136 - 25565 - 0/20 - 1.19.2 - A Minecraft Server - 
+163 - 93.213.180.233 - 25565 - 0/5 - Paper 1.19.2 - Wo die coolen Leute Minecraft zocken - 
+164 - 93.214.78.143 - 25565 - 0/50 - 1.19.2 - ÂÂWillkommen bei: Â Â§kBlijad ÂM Âa Ât Âh Âe ÂB Âo ÂZ Âz Â2 Â8 Â0 Â4 Â Â§kBlijad - 
+165 - 93.215.227.51 - 25565 - 0/20 - 1.19.2 - A Vanilla Minecraft Server powered by Docker - 
+166 - 93.217.117.26 - 25565 - 0/20 - 1.19.2 - A Vanilla Minecraft Server powered by Docker - 
+167 - 93.217.220.129 - 25565 - 0/10 - Spigot 1.19.2 - !! willkommen auf dem Community Server von Kevin-LP [spiele und bau server] !! - 
+168 - 93.219.92.27 - 25565 - 0/20 - 1.19.2 - JOIN INTO KRITZMOW CITTTTYYYY - 
+169 - 93.222.120.201 - 25565 - 0/20 - 1.19.2 - A Minecraft Server - 
+170 - 93.223.148.159 - 25565 - 0/6 - Spigot 1.19.2 - Microsoft was a mistake - 
+171 - 93.224.18.114 - 25565 - 0/32 - Spigot 1.19.2 - Ein Meinkampf Server - 
+172 - 93.224.174.65 - 25565 - 0/7 - Paper 1.19.2 - Lies die REGELN zuerst: http://srv.kackadu.de/rules.txt - 
+173 - 93.226.52.92 - 25565 - 0/20 - 1.19 1.19.2 - 1.19.2 - 
+174 - 93.226.62.162 - 25565 - 0/20 - Paper 1.19.2 - A Vanilla Minecraft Server powered by Docker - 
+175 - 93.226.189.236 - 25565 - 0/20 - Paper 1.19.2 - A Paper Minecraft Server powered by Docker - 
+176 - 93.226.190.38 - 25565 - 0/69 - Spigot 1.19.2 - Jonas hat nen kleinen Nahkampfstachel - 
+177 - 93.226.217.12 - 25565 - 0/20 - Paper 1.19.2 - Super Minecraft 64 - 
+178 - 93.228.11.61 - 25565 - 0/187 - 1.19.2 - Vanille Wixxe mit ArschficksoÃƒÂŸe - 
+179 - 93.228.118.84 - 25565 - 0/20 - 1.19.2 - A Vanilla Minecraft Server powered by Docker - 
+180 - 93.229.27.207 - 25565 - 0/20 - 1.19.2 - A Vanilla Minecraft Server powered by Docker - 
+181 - 93.229.112.223 - 25565 - 0/20 - 1.19.2 - A Minecraft Server - 
+182 - 93.229.161.228 - 25565 - 0/1000 - DeepslateMC 1.19.2 - Pascalpex -- Der 1.19.2 Minecraft Server[Survival] [KnockFFA] [Murder] [TntRun] [Paintball] - 
+183 - 93.231.251.228 - 25565 - 0/5 - 1.19.2 - A Minecraft Server - 
+184 - 93.233.233.3 - 25565 - 0/10 - Paper 1.19.2 - CocoCraft 1.19.2 - 
+185 - 93.234.100.237 - 25565 - 0/20 - 1.19.2 - Rueyas Survival - 
+186 - 93.234.115.48 - 25565 - 0/5 - Paper 1.19.2 - Raspberry Pi 200x200 Server [Version 1.19.2] - 
+187 - 93.235.75.158 - 25565 - 0/4 - 1.19.2 - H2Obst is back - 
+188 - 93.236.152.15 - 25565 - 0/20 - 1.19.2 - A Minecraft Server - 
+189 - 93.237.74.201 - 25565 - 0/20 - 1.19.2 - duckster.net Minecraft Server - 
+190 - 93.237.83.222 - 25565 - 0/4 - Paper 1.19.2 - Ey Alte,zeig mal Wurstfach - 
+191 - 93.239.0.164 - 25565 - 0/20 - 1.19.2 - Vanilla Server - 
+192 - 93.239.34.123 - 25565 - 0/20 - 1.19.2 - A Vanilla Minecraft Server powered by Docker - 
+193 - 93.239.62.102 - 25565 - 0/10 - Spigot 1.19.2 - A Minecraft Server - 
+194 - 93.239.159.96 - 25565 - 0/20 - Spigot 1.19.2 - A Minecraft Server - 
+195 - 93.240.31.29 - 25565 - 0/20 - 1.19.2 - New ÂÂ1.19 ÂUpdate ÂÂÂ-> Join now - 
+196 - 93.241.206.200 - 25565 - 0/128 - Paper 1.19.2 - [ag4a]-MC-Server - 
+197 - 93.243.31.98 - 25565 - 0/666 - Velocity 1.7.2-1.19.2 - Velocity Minestom Network - 
+198 - 93.243.222.83 - 25565 - 0/20 - 1.19.2 - A Minecraft Server - 
